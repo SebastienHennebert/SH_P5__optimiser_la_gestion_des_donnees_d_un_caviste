@@ -1,4 +1,4 @@
-Projet 5 de la formation Data Analyst Openclassrooms : OPTIMISER LA GESTION DES DONNEES D'UNE BOUTIQUE
+**Projet 5 de la formation Data Analyst Openclassrooms : OPTIMISER LA GESTION DES DONNEES D'UNE BOUTIQUE**
 
 Projet réalisé sur Python via un Jupyter Notebook
 
