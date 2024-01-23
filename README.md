@@ -4,7 +4,7 @@
 
 Projet réalisé sur Python via un Jupyter Notebook
 
-Contexte : Un marchand de vin pretigieux dont l'ERP n'est pas encore relié à son site de vente en ligne souhaite étudier ses ventes.
+Contexte : Un marchand de vin pretigieux dont l'ERP n'est pas encore relié à son site de vente en ligne souhaite optimiser la gestion de ses données.
 
 Mission : Rapprocher un export de l’ERP contenant les références produit, leur prix de vente et leur état de stock, et un export d’une table de l’outil de CMS contenant les informations des produits commercialisés en ligne. Calculer le CA total et le CA par produit. Etudier les prix de chaque produit et détecter les anomalies.
 
@@ -18,7 +18,7 @@ Démarche : Utilisation des librairies Numpy et Pandas pour le nettoyage et l'ex
 
 Project executed with Python via a Jupyter Notebook
 
-Context: A prestigious wine merchant, whose ERP is not yet connected to its online sales platform, aims to study its sales.
+Context: A prestigious wine merchant, whose ERP is not yet connected to its online sales platform, aims to optimize data management.
 
 Objective: Match an ERP export containing product references, their selling prices, and stock levels with an export from a CMS tool containing information about products sold online. Calculate the total revenue and revenue per product. Examine the prices of each product and detect anomalies.
 
